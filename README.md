@@ -6,7 +6,7 @@ $ pkg install git
 $ git clone https://github.com/SAY-KOJI/KTP
 $ cd KTP
 $ ls
-$ php kkktp.php
+$ php KTP.php
 ```
 # Pembuat
 SAY-KOJI  
