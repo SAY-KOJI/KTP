@@ -1,5 +1,5 @@
 ## KK & KTP Generator
-# Command Install For Termux / Linux (pc)
+# Command Install For Termux
 ```
 $ pkg install php
 $ pkg install git
