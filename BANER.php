@@ -22,7 +22,7 @@ $cyan = "\e[36m";
 $bold   = "\e[1m";
 function kkktp_banner(){
   echo "\e[91;32m
-                          _
+                             _
               ---           / |
               \   \        /  |
                \    \     /   /
